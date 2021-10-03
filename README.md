@@ -9,7 +9,6 @@ Student in love with programming and coffe ❤☕
   <div>
   <a href="##">
     <img height="180em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img height="180em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 <div>
   <a href="https://www.instagram.com/bruno.treib/">
